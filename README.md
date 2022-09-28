@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @shraddhatech16
-- 👀 I’m interested in coding, web development, machine learning, CP
-- 🌱 I’m currently learning full stack web development
+- I’m interested in coding, web development, machine learning, CP
+- I’m currently learning full stack web development
 - Currently 4⭐️ on hackerrank and 2⭐️ on codechef
 
 I am Currently learning and familiar with-
----
-🧰 Toolbox
----
 
- 
 <br>
 <br>
 <p>
