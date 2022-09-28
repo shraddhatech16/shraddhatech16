@@ -4,6 +4,9 @@
 - Currently 4⭐️ on hackerrank and 2⭐️ on codechef
 
 I am Currently learning and familiar with-
+---
+🧰 Toolbox
+---
 
  
 <br>
@@ -22,3 +25,13 @@ I am Currently learning and familiar with-
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
+
+---
+
+## &#x1f4c8; My GitHub Stats
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhatech16&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddhatech16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
