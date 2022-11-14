@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=shraddhatech16&label=PROFILE+VIEWS)
 - 👋 Hi, I’m @shraddhatech16
 - I’m interested in coding, web development, machine learning, CP
 - I’m currently learning full stack web development
